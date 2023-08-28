@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HelpDeskApplication<helpDesk>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.helpDesk.helpDesk.HelpDeskApplication",
+            "projectName": "helpDesk",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
